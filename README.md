@@ -1,2 +1,2 @@
-# target-boilerplate
+# Target Boilerplate
 Laravel boilerplate with websocket.
